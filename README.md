@@ -2,8 +2,8 @@
 Learn history and personality of Mycroft
 
 ## About
-Ask about the "birth" and parentage of Mycroft and get a taste of the community
-who is fostering this open source artificial intelligence.
+Ask about the "birth" and parentage of Owly and get a taste of the community
+who is fostering this artificial intelligence.
 
 ## Examples
 * "When were you created?"
@@ -13,7 +13,7 @@ who is fostering this open source artificial intelligence.
 * "Do you even rhyme?"
 
 ## Credits
-Mycroft AI (@MycroftAI)
+OwOIndustries (@OwOIndustries)
 
 Poem penned by community member Jelmer Prins
 
